@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Bardhan Nikhra</h1>
 <h3 align="center">A passionate fro"Passionate Student Dives into Coding Challenges and DSA Mastery, on the Path to SDE Internship"ntend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hbardhan&label=Profile%20views&color=0e75b6&style=flat" alt="hbardhan" /> </p>
+
 
 
 - 🌱 I’m currently learning **Golang , MERN Developer, Data Structures and Algorithm and CS Core Subjects**
