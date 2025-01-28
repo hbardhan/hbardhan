@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Bardhan Nikhra</h1>
-<h3 align="center">A passionate fro"Passionate Student Dives into Coding Challenges and DSA Mastery, on the Path to SDE Internship"ntend developer from India</h3>
+<h3 align="center">Currently Seeking Internship or Entry-Level Opportunities | Golang Backend Developer | Web Full Stack Developer
+</h3>
 
 
 
