@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbardhan" alt="hbardhan" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Developer, Data Structures and Algorithm and CS Core Subjects**
+- 🌱 I’m currently learning **Golang , MERN Developer, Data Structures and Algorithm and CS Core Subjects**
 
 - 🤝 I’m looking for help with **Software Developer Engineer Job**
 
-- 💬 Ask me about **React, DSA, Python, Golang, Html, CSS, JavaScript**
+- 💬 Ask me about **React, DSA, Python, Golang, Html, CSS, JavaScript, Golang**
 
 - 📫 How to reach me **hbardhanlive@gmail.com**
 
