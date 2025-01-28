@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/harsh-bardhan-nikhra-998343237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-bardhan-nikhra-998343237/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-bardhan-nikhra-998343237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-bardhan-nikhra-998343237/" height="30" width="40" /></a>
 <a href="https://instagram.com/h_bardhan_casts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_bardhan_casts" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/h bardhan live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="h bardhan live" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/hbardhanlive2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh bardhan nikhra" height="30" width="40" /></a>
